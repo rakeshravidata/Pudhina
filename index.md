@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hello
+title: Hello World!
 subtitle: My name is Rakesh Ravi
 sitemap:
   priority: 0.9
