@@ -6,7 +6,7 @@ sitemap:
   priority: 0.9
 ---
 
-**Bio**
+
 <img src="{{ '/assets/img/pudhina.jpg' | prepend: site.baseurl }}" id="about-img">
 
 <div id="describe-text">
