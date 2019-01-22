@@ -2,8 +2,8 @@
 layout: page
 title:  "Ethics of Data Science in Cyber Security"
 subtitle: ""
-date:   2016-05-20 21:21:21 +0530
-categories: ["general"]
+date:   2018-12-07 21:21:21 +0530
+categories: ["Data Science"]
 ---
 
 **Background Information**
