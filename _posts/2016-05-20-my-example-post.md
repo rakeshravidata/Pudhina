@@ -8,6 +8,10 @@ categories: ["general"]
 
 **Background Information**
 
+<img src="{{ '/assets/img/0*zVYvHSJYCIreI2Ln.jpg' | prepend: site.baseurl }}" id="about-img">
+
+
+
 <p>I am a Master’s in Data Science student at the University of Virginia and I am working on a project with the School of Engineering that involves detecting cyber-crime activity within the University network using a semi-supervised machine learning algorithm. The dataset for the project is a set of data points including personally identifiable information such as IP addresses of the users that interact with the University of Virginia network. The goal is to train a machine learning algorithm to detect the patterns that help in deciding whether an IP address is malicious or not. The final outcome of the project is a blacklist of the IP addresses which will be used by the cyber security team to prevent cyber-attacks in the future. An important sub-goal of the project is minimizing the instances of false positives where an IP address is diagnosed as malicious but is actually benign. While the project is intended to serve the common good of the university, it involves some serious ethical trade-offs and possibly some collateral damage. As the data scientist working on building this algorithm, it’s my responsibility to ensure that I address the ethical concerns around online privacy and data security.</p>
 
 **Ethical Issues**
