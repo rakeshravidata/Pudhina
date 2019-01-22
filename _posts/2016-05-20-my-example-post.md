@@ -8,7 +8,7 @@ categories: ["general"]
 
 **Background Information**
 
-<img src="{{ '/assets/img/0*zVYvHSJYCIreI2Ln.jpg' | prepend: site.baseurl }}" id="about-img">
+<img src="{{ '/assets/img/0*zVYvHSJYCIreI2Ln.jpg' | prepend: site.baseurl }}" id="about-img", style="width:500px;height:600px;">
 
 
 
