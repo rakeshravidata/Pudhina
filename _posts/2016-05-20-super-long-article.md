@@ -20,7 +20,8 @@ categories: "Data Science"
 <p>To give you a rough idea of the scale, there are 322 different airport codes in both airport fields (Origin and destination), nearly 14 airlines, 12 months and nearly 30 days in each month. If you were to use one-hot encoding for the problem, the number of columns in the dataset will increase to 522,567,360. Most classification models require a high amount of computation power to train on 500 million rows which is generally available in cloud computing services like AWS or GCP.
 But, what are my options now?</p>
 
-<p style="text-align:center;">
+
+ <p class="aligncenter">
 <img src="{{ '/assets/img/1*shu_QNp6umKtZvKX80tblQ.png' | prepend: site.baseurl }}" class="center" width="75%" height="75%">
 </p>  
   
@@ -35,7 +36,7 @@ Instead of training the model on the whole dataset, what if you trained a separa
 <p>Step 4: Perform hyper-parametric tuning for the whole dataset or for individual classifiers depending on the number of levels in each category.</p>
 
 **Layout for Training Multiple Classifiers**
-<p style="text-align:center;">
+<p class="aligncenter">
 <img src="{{ '/assets/img/1*fZUExkhlDojlMDwwVi7Z1A.png' | prepend: site.baseurl }}" class="center" width="75%" height="75%">
 </p>
 
