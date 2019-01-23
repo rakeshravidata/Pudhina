@@ -22,7 +22,7 @@ But, what are my options now?</p>
 
 <center>
  <p class="aligncenter">
-<img src="{{ '/assets/img/1*shu_QNp6umKtZvKX80tblQ.png' | prepend: site.baseurl }}" class="center" width="75%" height="75%">
+<img src="{{ '/assets/img/1*shu_QNp6umKtZvKX80tblQ.png' | prepend: site.baseurl }}"  alt="centered image" class="center" width="75%" height="75%">
 </p>  
 </center>
   
@@ -39,7 +39,7 @@ Instead of training the model on the whole dataset, what if you trained a separa
 **Layout for Training Multiple Classifiers**
 <center>
 <p class="aligncenter">
-<img src="{{ '/assets/img/1*fZUExkhlDojlMDwwVi7Z1A.png' | prepend: site.baseurl }}" class="center" width="75%" height="75%">
+<img src="{{ '/assets/img/1*fZUExkhlDojlMDwwVi7Z1A.png' | prepend: site.baseurl }}"  alt="centered image" class="center" width="75%" height="75%">
 </p>
 </center>
 
