@@ -23,7 +23,7 @@ But, what are my options now?</p>
 
 <p class="aligncenter">
 <img src="{{ '/assets/img/1*shu_QNp6umKtZvKX80tblQ.png' | prepend: site.baseurl }}" class="center" alt="centered image" width="75%" height="75%">
-<p/>
+</p>
 
   
 <p>In order to reduce dimensionality, the variable with the highest number of levels can be grouped into clusters. In the case of my project, the origin and destination airport have the highest number of levels and can be grouped into clusters. But clustering will reduce resolution of the data and the model might not learn the nuances between different levels of the variable. As a result, the model will not perform as well as we would expect and will have a lower AUC which is undesirable.
