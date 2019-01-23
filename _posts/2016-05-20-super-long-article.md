@@ -6,7 +6,9 @@ categories: "Data Science"
 ---
 
 
-<!--<img src="{{ '/assets/img/1*dmh91HqnhxnMtF3tt2Z32A.jpeg' | prepend: site.baseurl }}" id="about-img" width="1024" height="1024">-->
+<img src="{{ '/assets/img/1*dmh91HqnhxnMtF3tt2Z32A.jpeg' | prepend: site.baseurl }}" id="about-img" width="1024" height="1024">
+
+<a href="url"><img src="https://github.com/rakeshravidata/Pudhina/blob/gh-pages/assets/img/1*dmh91HqnhxnMtF3tt2Z32A.jpeg" align="left" height="48" width="48" ></a>
 
 ![Image of Yaktocat](https://github.com/rakeshravidata/Pudhina/blob/gh-pages/assets/img/1*dmh91HqnhxnMtF3tt2Z32A.jpeg)
 
