@@ -8,7 +8,7 @@ categories: ["Data Science"]
 
 <center>
 <p class="aligncenter">
-<img src="{{ '/assets/img/1*WMUQM7RFLh3-ej0_M1hHMQ.jpeg' | prepend: site.baseurl }}" class="center" alt="centered image" style="width:1512px;height:128px;"/>
+<img src="{{ '/assets/img/1*WMUQM7RFLh3-ej0_M1hHMQ.jpeg' | prepend: site.baseurl }}" class="center" alt="centered image" width="75%" height="75%"/>
 </p>
 </center>
 
@@ -26,7 +26,7 @@ categories: ["Data Science"]
 **Snapshot of Performance**
 <center>
 <p class="aligncenter">
-<img src="{{ '/assets/img/1*vWhYH9KaUeDhjNB6cOU_sw.png' | prepend: site.baseurl }}" class="center" alt="centered image" style="width:1512px;height:128px;"/>
+<img src="{{ '/assets/img/1*vWhYH9KaUeDhjNB6cOU_sw.png' | prepend: site.baseurl }}" class="center" alt="centered image" \width="75%" height="75%"/>
 </p>
 </center>
 
@@ -39,7 +39,7 @@ categories: ["Data Science"]
 **Dense Decision Tree (Model without One Hot Encoding)**
 <center>
 <p class="aligncenter">
-<img src="{{ '/assets/img/1*rJldhOQ8qofb-UsvEDwAdg.png' | prepend: site.baseurl }}" class="center" alt="centered image" style="width:1512px;height:128px;"/>
+<img src="{{ '/assets/img/1*rJldhOQ8qofb-UsvEDwAdg.png' | prepend: site.baseurl }}" class="center" alt="centered image" width="75%" height="75%"/>
 </p>
 </center>
 
@@ -48,7 +48,7 @@ categories: ["Data Science"]
 **Sparse Decision Tree (Model with One Hot Encoding)**
 <center>
 <p class="aligncenter">
-<img src="{{ '/assets/img/1*waMbIQifR03o_1hHzNYgbw.png' | prepend: site.baseurl }}" class="center" alt="centered image" style="width:1512px;height:128px;"/>
+<img src="{{ '/assets/img/1*waMbIQifR03o_1hHzNYgbw.png' | prepend: site.baseurl }}" class="center" alt="centered image" width="75%" height="75%"/>
 </p>
 </center>
 
@@ -57,7 +57,7 @@ categories: ["Data Science"]
 **Dataset A with Dummy Variables**
 <center>
 <p class="aligncenter">
-<img src="{{ '/assets/img/1*UXFyRYdfpCYwfkAuMcDjMg.png' | prepend: site.baseurl }}" class="center" alt="centered image" style="width:1512px;height:128px;"/>
+<img src="{{ '/assets/img/1*UXFyRYdfpCYwfkAuMcDjMg.png' | prepend: site.baseurl }}" class="center" alt="centered image" width="75%" height="75%"/>
 </p>
 </center>
 
@@ -67,7 +67,7 @@ categorical variables that have levels A, B, C and D. If we were to fit a decisi
 **Decision Tree for Dataset A**
 <center>
 <p class="aligncenter">
-<img src="{{ '/assets/img/1*jOMNT-nHwABGVchKX0Pi3Q.jpeg' | prepend: site.baseurl }}" class="center" alt="centered image" style="width:1512px;height:128px;"/>
+<img src="{{ '/assets/img/1*jOMNT-nHwABGVchKX0Pi3Q.jpeg' | prepend: site.baseurl }}" class="center" alt="centered image" width="75%" height="75%"/>
 </p>
 </center>
 
@@ -89,7 +89,7 @@ categorical variables that have levels A, B, C and D. If we were to fit a decisi
 
 <center>
 <p class="aligncenter">
-<img src="{{ '/assets/img/1*aMaOMQ0bIt9txo_YMcSiTQ.png' | prepend: site.baseurl }}" class="center" alt="centered image" style="width:1512px;height:128px;"/>
+<img src="{{ '/assets/img/1*aMaOMQ0bIt9txo_YMcSiTQ.png' | prepend: site.baseurl }}" class="center" alt="centered image" width="75%" height="75%"/>
 </p>
 </center>
 
@@ -97,7 +97,7 @@ categorical variables that have levels A, B, C and D. If we were to fit a decisi
 
 <center>
 <p class="aligncenter">
-<img src="{{ '/assets/img/1*VT1vwxH9k_Ra1B6JkMwSJw.png' | prepend: site.baseurl }}" class="center" alt="centered image" style="width:1512px;height:128px;"/>
+<img src="{{ '/assets/img/1*VT1vwxH9k_Ra1B6JkMwSJw.png' | prepend: site.baseurl }}" class="center" alt="centered image" width="75%" height="75%"/>
 </p>
 </center>
 
@@ -105,7 +105,7 @@ categorical variables that have levels A, B, C and D. If we were to fit a decisi
 
 <center>
 <p class="aligncenter">
-<img src="{{ '/assets/img/1*gMBpcUHN0LFCYr6JQ95_dg.png' | prepend: site.baseurl }}" class="center" alt="centered image" style="width:1512px;height:128px;"/>
+<img src="{{ '/assets/img/1*gMBpcUHN0LFCYr6JQ95_dg.png' | prepend: site.baseurl }}" class="center" alt="centered image" width="75%" height="75%"/>
   </p>
 </center>
 
