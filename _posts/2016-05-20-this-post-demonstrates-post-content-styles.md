@@ -6,7 +6,11 @@ date:   2019-01-11 21:21:21 +0530
 categories: ["Data Science"]
 ---
 
-<img src="{{ '/assets/img/1*WMUQM7RFLh3-ej0_M1hHMQ.jpeg | prepend: site.baseurl }}" id="about-img" style="width:1512px;height:128px;"/>
+<center>
+<p class="aligncenter">
+<img src="{{ '/assets/img/1*WMUQM7RFLh3-ej0_M1hHMQ.jpeg' | prepend: site.baseurl }}" class="center" alt="centered image" style="width:1512px;height:128px;"/>
+</p>
+</center>
 
 <p>Most real-world datasets are a mix of categorical and continuous variables. While continuous variables fit into all machine learning models quite easily, the implementation of categorical variables is vastly different in different models and different programming languages. For instance, R deals with categories using a variable type called factor which elegantly fits all models without an issue and Python would require you to convert the categories into label encoding for the models to work. Python is my choice of programming language and I routinely perform some sort of encoding for categorical variables. In general, one hot encoding provides better resolution of the data for the model and most models end up performing better. It turns out this is not true for all models and to my surprise, random forest performed consistently worse for datasets with high cardinality categorical variables.</p>
   
@@ -20,7 +24,11 @@ categories: ["Data Science"]
 
 
 **Snapshot of Performance**
-<img src="{{ 'assets/img/1*vWhYH9KaUeDhjNB6cOU_sw.png' | prepend: site.baseurl }}" id="about-img" style="width:1512px;height:128px;"/>
+<center>
+<p class="aligncenter">
+<img src="{{ '/assets/img/1*vWhYH9KaUeDhjNB6cOU_sw.png' | prepend: site.baseurl }}" class="center" alt="centered image" style="width:1512px;height:128px;"/>
+</p>
+</center>
 
 <p>We would normally expect one-hot encoding to improve the model but as the screenshot suggests, the model with one-hot encoding performing significantly worse than the model without it. One-hot encoding contributed to a decrease of 0.157 units of logarithmic loss. Kaggle competition winners are decided in slightest of margins and an offset of 0.05 could be the difference between being in the top 75% and top 25% on the leaderboard. Now that we have established one-hot encoding is making the models worse, let’s examine the reasons behind why this happens.</p>
 
@@ -29,23 +37,39 @@ categories: ["Data Science"]
 <p>To understand this, let’s get into the inner dynamics of tree-bases models. For every tree-based algorithm, there is a sub-algorithm that is used to split the dataset into two bins based on a feature and a value. The splitting algorithm considers all possible splits (based on all features and all possibles values for each feature) and finds the most optimum split based on a criterion. We will not get into details of the criterion (there are multiple ways to do this) but qualitatively speaking, the criterion helps the sub-algorithm select the split that minimizes the impurity of bins. Purity is a proxy for the number of positive or negative samples in a particular bin in a classification problem. I found a very useful visualization that can helped me grasp this concept.</p>
 
 **Dense Decision Tree (Model without One Hot Encoding)**
-<img src="{{ '/assets/img/1*rJldhOQ8qofb-UsvEDwAdg.png' | prepend: site.baseurl }}" id="about-img" style="width:1512px;height:128px;"/>
+<center>
+<p class="aligncenter">
+<img src="{{ '/assets/img/1*rJldhOQ8qofb-UsvEDwAdg.png' | prepend: site.baseurl }}" class="center" alt="centered image" style="width:1512px;height:128px;"/>
+</p>
+</center>
 
 <p>If a continuous variable is chosen for a split, then there would be a number of choices of values on which a tree can split and in most cases, the tree can grow in both directions. The resulting tree from a dataset containing a majority of continuous variables that would look like something in the figure to the left.</p>
 
 **Sparse Decision Tree (Model with One Hot Encoding)**
-<img src="{{ '/assets/img/1*waMbIQifR03o_1hHzNYgbw.png' | prepend: site.baseurl }}" id="about-img" style="width:1512px;height:128px;"/>
+<center>
+<p class="aligncenter">
+<img src="{{ '/assets/img/1*waMbIQifR03o_1hHzNYgbw.png' | prepend: site.baseurl }}" class="center" alt="centered image" style="width:1512px;height:128px;"/>
+</p>
+</center>
 
 <p>Categorical variables are naturally disadvantaged in this case and have only a few options for splitting which results in very sparse decision trees. The situation gets worse in variables that have a small number of levels and one-hot encoding falls in this category with just two levels. The trees generally tend to grow in one direction because at every split of a categorical variable there are only two values (0 or 1). The tree grows in the direction of zeroes in the dummy variables. If that didn’t make sense, follow the example below closely.</p>
 
 **Dataset A with Dummy Variables**
-<img src="{{ '/assets/img/1*UXFyRYdfpCYwfkAuMcDjMg.png' | prepend: site.baseurl }}" id="about-img" style="width:1512px;height:128px;"/>
+<center>
+<p class="aligncenter">
+<img src="{{ '/assets/img/1*UXFyRYdfpCYwfkAuMcDjMg.png' | prepend: site.baseurl }}" class="center" alt="centered image" style="width:1512px;height:128px;"/>
+</p>
+</center>
 
 <p>For instance, consider the following dataset which contains dummy variables for
 categorical variables that have levels A, B, C and D. If we were to fit a decision tree to this data just to understand the splits, it would resemble the following.</p>
 
 **Decision Tree for Dataset A**
-<img src="{{ '/assets/img/1*jOMNT-nHwABGVchKX0Pi3Q.jpeg' | prepend: site.baseurl }}" id="about-img" style="width:1512px;height:128px;"/>
+<center>
+<p class="aligncenter">
+<img src="{{ '/assets/img/1*jOMNT-nHwABGVchKX0Pi3Q.jpeg' | prepend: site.baseurl }}" class="center" alt="centered image" style="width:1512px;height:128px;"/>
+</p>
+</center>
 
 <p>In conclusion, if we have a categorical variable with q levels, the tree has to choose from ((2^q/2)-1) splits. For a dummy variable, there is only one possible split and this induces sparsity.</p>
 
@@ -63,15 +87,27 @@ categorical variables that have levels A, B, C and D. If we were to fit a decisi
   
 <p>In spite of delivering better performance, the tree based models have a slightly tarnished reputation primarily because of its interpretability which arises due to the way in which the feature importance is calculated. Feature importance in most tree-ensembles is calculated based an importance score. The importance score is a measure of how often the feature was selected for splitting and how much gain in purity was achieved as a result of the selection.</p>
 
-<img src="{{ '/assets/img/1*aMaOMQ0bIt9txo_YMcSiTQ.png' | prepend: site.baseurl }}" id="about-img" style="width:1512px;height:128px;"/>
+<center>
+<p class="aligncenter">
+<img src="{{ '/assets/img/1*aMaOMQ0bIt9txo_YMcSiTQ.png' | prepend: site.baseurl }}" class="center" alt="centered image" style="width:1512px;height:128px;"/>
+</p>
+</center>
 
 <p>The most important feature is the action_type which is a high cardinality categorical variable and clearly much more important than the ones preceding it. To provide some context, I had one-hot encoded action_type and combined_shot_type which were both high cardinality categorical variable. Obviously, dummy variables increase the dimensionality of the dataset and the curse of dimensionality comes into play and produces the chart below for feature importance. This is clearly not interpretable.</p>
 
-<img src="{{ '/assets/img/1*VT1vwxH9k_Ra1B6JkMwSJw.png' | prepend: site.baseurl }}" id="about-img" style="width:1512px;height:128px;"/>
+<center>
+<p class="aligncenter">
+<img src="{{ '/assets/img/1*VT1vwxH9k_Ra1B6JkMwSJw.png' | prepend: site.baseurl }}" class="center" alt="centered image" style="width:1512px;height:128px;"/>
+</p>
+</center>
 
 <p>To take a magnified view, I decided to look at the top 15 features which seemed to influence the prediction the most.</p>
 
-<img src="{{ '/assets/img/1*gMBpcUHN0LFCYr6JQ95_dg.png' | prepend: site.baseurl }}" id="about-img" style="width:1512px;height:128px;"/>
+<center>
+<p class="aligncenter">
+<img src="{{ '/assets/img/1*gMBpcUHN0LFCYr6JQ95_dg.png' | prepend: site.baseurl }}" class="center" alt="centered image" style="width:1512px;height:128px;"/>
+  </p>
+</center>
 
 <p>When we examine the chart above, it’s clear that only one dummy variable is featured in the top 15 and that too in the 14th position which validates our hypothesis of variable selection for splitting. One-hot encoding has also obscured the order of importance of features that weren’t involved in the encoding and this makes the model inefficient.</p>
   
@@ -82,9 +118,9 @@ categorical variables that have levels A, B, C and D. If we were to fit a decisi
 
 <p>One-hot encoding categorical variables with high cardinality can cause inefficiency in tree-based ensembles. Continuous variables will be given more importance than the dummy variables by the algorithm which will obscure the order of feature importance resulting in poorer performance.</p>
   
-**Extra Reading***
+**Extra Reading**
 
-[Visualization](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
-[Textbook](https://web.stanford.edu/~hastie/ElemStatLearn/)
-[Engaging Discussion](https://www.kaggle.com/c/zillow-prize-1/discussion/38793)
-[Summary of all types of Encoding](https://medium.com/data-design/visiting-categorical-features-and-encoding-in-decision-trees-53400fa65931)
+[Visualization](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)\s\s
+[Textbook](https://web.stanford.edu/~hastie/ElemStatLearn/)\s\s
+[Engaging Discussion](https://www.kaggle.com/c/zillow-prize-1/discussion/38793)\s\s
+[Summary of all types of Encoding](https://medium.com/data-design/visiting-categorical-features-and-encoding-in-decision-trees-53400fa65931)\s\s
