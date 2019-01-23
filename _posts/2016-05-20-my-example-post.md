@@ -8,7 +8,7 @@ categories: ["Data Science"]
 
 **Background Information**
 
-<img src="{{ '/assets/img/0*zVYvHSJYCIreI2Ln.jpg' | prepend: site.baseurl }}" width="1000%" height="1000%">
+<img src="{{ '/assets/img/0*zVYvHSJYCIreI2Ln.jpg' | prepend: site.baseurl }}" width="500%" height="500%">
 
 
 
