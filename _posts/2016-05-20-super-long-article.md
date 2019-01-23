@@ -6,7 +6,7 @@ categories: "Data Science"
 ---
 
 
-<img src="{{ '/assets/img/1*dmh91HqnhxnMtF3tt2Z32A.jpeg' | prepend: site.baseurl }}" id="about-img" width="100%" height="100%">
+<img src="{{ '/assets/img/1*dmh91HqnhxnMtF3tt2Z32A.jpeg' | prepend: site.baseurl }}" id="about-img" width="500%" height="500%">
 
 <p>All Data Analysts have reached a point in solving a problem where they end up with a dataset that has nothing but categorical variables. You are probably thinking that this isnt a big issue because you can just one-hot encode them (If you have not heard of one-hot encoding — read this) or create label encoders. But what do you when you have a dataset with a large number of categorical variables and your local machine is not a supercomputer?</p>
   
