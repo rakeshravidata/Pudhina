@@ -22,7 +22,7 @@ categories: "Data Science"
 But, what are my options now?</p>
 
 <p class="aligncenter">
-<img src="{{ '/assets/img/1*shu_QNp6umKtZvKX80tblQ.png' | prepend: site.baseurl }}"  alt="centered image" width="75%" height="75%">
+<img src="{{ '/assets/img/1*shu_QNp6umKtZvKX80tblQ.png' | prepend: site.baseurl }}" class="center" alt="centered image" width="75%" height="75%">
 <p/>
 
   
