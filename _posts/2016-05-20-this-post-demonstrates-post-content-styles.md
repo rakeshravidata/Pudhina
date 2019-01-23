@@ -123,4 +123,4 @@ categorical variables that have levels A, B, C and D. If we were to fit a decisi
 [Visualization](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)<br>
 [Textbook](https://web.stanford.edu/~hastie/ElemStatLearn/)<br>
 [Engaging Discussion](https://www.kaggle.com/c/zillow-prize-1/discussion/38793)<br>
-[Summary of all types of Encoding](https://medium.com/data-design/visiting-categorical-features-and-encoding-in-decision-trees-53400fa65931)\s\s
+[Summary of all types of Encoding](https://medium.com/data-design/visiting-categorical-features-and-encoding-in-decision-trees-53400fa65931)
