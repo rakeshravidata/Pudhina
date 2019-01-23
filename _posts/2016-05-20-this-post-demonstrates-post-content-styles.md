@@ -26,7 +26,7 @@ categories: ["Data Science"]
 **Snapshot of Performance**
 <center>
 <p class="aligncenter">
-<img src="{{ '/assets/img/1*vWhYH9KaUeDhjNB6cOU_sw.png' | prepend: site.baseurl }}" class="center" alt="centered image" \width="75%" height="75%"/>
+<img src="{{ '/assets/img/1*vWhYH9KaUeDhjNB6cOU_sw.png' | prepend: site.baseurl }}" class="center" alt="centered image" width="75%" height="75%"/>
 </p>
 </center>
 
