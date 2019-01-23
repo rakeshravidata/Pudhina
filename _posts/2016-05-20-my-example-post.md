@@ -37,4 +37,4 @@ categories: ["Data Science"]
 **Conclusion**
 
 <p>In my opinion, most ethical challenges faced in the field of technology and especially in the field of machine learning are due to the limited presence of social scientists. As the government agencies are unable to keep pace with the advancements in Silicon Valley, it falls on the tech organizations to ensure that they have an ethics review committee to perform risk assessment from an ethical perspective.
-I have expert guidance from one of my professors for putting this together. If you are interested in working on such themes, I would highly recommend checking out his website https://www.samuellengen.net.</p>
+I have expert guidance from one of my professors for putting this together. If you are interested in working on such themes, I would highly recommend checking out his [website](https://www.samuellengen.net).</p>
