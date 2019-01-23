@@ -2,7 +2,7 @@
 layout: page
 title:  "A Practical Approach to Dealing With Categorical Variables During Modelling"
 date:   2018-12-23 21:21:21 +0530
-categories: "Data Science"
+categories: ["Data Science"]
 ---
 <center>
 <p class="aligncenter">
