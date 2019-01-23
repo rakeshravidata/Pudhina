@@ -7,10 +7,10 @@ sitemap:
 ---
 
 
-<img src="{{ '/assets/img/KuduvaUmasankar_RakeshRavi.png' | prepend: site.baseurl }}" width = "200%" height = "200%">
+<img src="{{ '/assets/img/KuduvaUmasankar_RakeshRavi.png' | prepend: site.baseurl }}" width = "50%" height = "50%">
 
 <div id="describe-text">
-	<p>I am a budding data science professional who is passionate about making business and technology work for each other especially in th1024pxe ad-tech industry.  From an industry exposure perspective, I have 4 years of experience in Data Analytics and Client Servicing across digital marketing, e-commerce, and insurance. I have substantial experience in complex data analysis, text mining, automation, data visualization and deploying machine learning models on real-world data. Working as a client-facing Data Analyst has helped me immensely in empathizing with business problems. I love talking about data and thrive on communicating the insights derived from data to non-technical stakeholders or clients.</p>
+	<p>I am a budding data science professional who is passionate about making business and technology work for each other especially in the ad-tech industry.  From an industry exposure perspective, I have 4 years of experience in Data Analytics and Client Servicing across digital marketing, e-commerce, and insurance. I have substantial experience in complex data analysis, text mining, automation, data visualization and deploying machine learning models on real-world data. Working as a client-facing Data Analyst has helped me immensely in empathizing with business problems. I love talking about data and thrive on communicating the insights derived from data to non-technical stakeholders or clients.</p>
 
 <p>Throughout my life, I have always enjoyed engaging in sports and physical education. I have played Junior professional and college tennis in India. At the age of 12, I started touring the country alone to compete in tennis tournaments and learned how to manage my time effectively between practice, matches, and school. I also had the opportunity to captain my regional team for five years and this experience held me in good stead when I led a team of data analysts.</p>
 
