@@ -16,7 +16,7 @@ University of Virginia, Charlottesville <span style="float: right; ">2018 - Pres
 SRM University,Chennai, India <span style="float: right; ">2010 - 2014</span>  
 **Bachelor of Technology in Mechanical Engineering**  
 
-
+<br>
 ### EXPERIENCE
 
 Research Assistant (Data Science) - **University of Virginia** <span style="float: right; ">Jul 2018 - Present</span>  
@@ -32,10 +32,13 @@ Senior Data Analyst - **Media IQ, Bangalore** <span style="float: right; ">Jul 2
 Technologies used  - R, SQL, Hive, Tableau
 
 Business Analyst - **InMobi, Bangalore** <span style="float: right; ">May 2015 - Jun 2017</span>  
-_Description Phasellus a tellus volutpat, ornare sapien et, lacinia erat. Suspendisse congue, enim vitae mattis pulvinar, eros lacus porttitor neque, eu sodales nibh metus nec arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;_  
-Technologies used  
+<p> 1. End to end ownership of delivery of campaign analytics from agency advertisers within Europe in terms of revenue and relationship. (Over 30% of InMobi's revenue in Europe).</p>
+<p> 2. Built and managed large data sets to define network benchmarks for engagement rates across regions which helped clients assess their ad performance.</p>
+<p>  3. Automated the delivery of daily revenue stats by collating data that was extracted from three orthogonal reporting APIs. These stats were utilized by the entire global team for monitoring their campaigns.</p>
+Technologies used  - R, SQL
 
-
+<br>
+ 
 ### PROJECTS
 **Title** - Characterization of cyber-criminal activity at UVa - Place <span style="float: right; ">Time span</span>  
 Building a deep learning model to detect malicious cyber activity based on data collected from honeypots on the UVa network (Funded by DARPA). The goal of the project is to build anomaly-based intrusion detection system detect malicious cyber activity
