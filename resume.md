@@ -39,16 +39,16 @@ Technologies used  - R, SQL
 
 <br>
  
-### PROJECTS
-**Title** - Characterization of cyber-criminal activity at UVa - Place <span style="float: right; ">Time span</span>  
+### DATA SCIENCE PROJECTS
+**Characterization of cyber-criminal activity at UVa** <span style="float: right; ">2018-2019</span>  
 Building a deep learning model to detect malicious cyber activity based on data collected from honeypots on the UVa network (Funded by DARPA). The goal of the project is to build anomaly-based intrusion detection system detect malicious cyber activity
 
 
-**Title** - Hotel Recommendation System - Booking.com - Place <span style="float: right; ">Time span</span>  
+**Hotel Recommendation System - Booking.com**  <span style="float: right; ">2018</span>  
 Built a recommendation engine in Python using k-means clustering algorithm on data scraped from booking.com. The recommendation engine was powered with user satisfaction scores from sentiment analysis performed on user reviews.
 
 
-**Title** - Flight Delay Prediction - FAA Data - Place <span style="float: right; ">Time span</span>  
+**Flight Delay Prediction - FAA Data** <span style="float: right; ">2018</span>  
 Built a machine learning model that was able to predict flight delay on FAA flight logs for the year of 2015. The model's area under curve in the ROC curve was 0.65.
 
 
@@ -57,9 +57,10 @@ Built a machine learning model that was able to predict flight delay on FAA flig
 
 ### RECOGNITION & INTERESTS
 
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
+- Nationally ranked Tennis player (2005 - 2010) and certified Tennis coach (2016 - Present)
+- College Tennis Experience- 
+    - University of Virginia (2018)
+    - SRM University (2010 - 2014)
+- Data Science Student Council - University of Virginia (2018 - 2019)
+- Served as a Career Ambassador at SRM University mentoring students in the development of their career.
+
