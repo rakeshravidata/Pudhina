@@ -11,7 +11,7 @@ sitemap:
 <img src="{{ '/assets/img/KuduvaUmasankar_RakeshRavi.png' | prepend: site.baseurl }}" width = "35%" height = "35%" class="center" alt="centered image" >
 	</p>
 </center>
-
+<div style="text-align: right"> 
 <div id="describe-text">
 	<p>I am a budding data science professional who is passionate about making business and technology work for each other especially in the ad-tech industry.  From an industry exposure perspective, I have 4 years of experience in Data Analytics and Client Servicing across digital marketing, e-commerce, and insurance. I have substantial experience in complex data analysis, text mining, automation, data visualization and deploying machine learning models on real-world data. Working as a client-facing Data Analyst has helped me immensely in empathizing with business problems. I love talking about data and thrive on communicating the insights derived from data to non-technical stakeholders or clients.</p>
 
@@ -22,4 +22,5 @@ sitemap:
 <p>I am also a big sports aficionado. I play Tennis, Badminton, Soccer, Basketball and Table Tennis. I love Roger Federer and the Golden State Warriors and watch all their games.</p>
 
 	<p><strong> <a href="https://github.com/rakeshravidata"> repository</a> </strong></p>
+</div>
 </div>
