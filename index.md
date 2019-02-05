@@ -8,7 +8,7 @@ sitemap:
 
 <center>
 <p class="aligncenter">
-<img src="{{ '/assets/img/KuduvaUmasankar_RakeshRavi.png' | prepend: site.baseurl }}" width = "35%" height = "35%" class="center" alt="centered image" >
+<img src="{{ '/assets/img/KuduvaUmasankar_RakeshRavi.png' | prepend: site.baseurl }}" width = "25%" height = "25%" class="center" alt="centered image" >
 	</p>
 </center>
 <div id="describe-text" style="text-align: justify">
