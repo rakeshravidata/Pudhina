@@ -4,4 +4,4 @@ title: Rakesh Ravi K U
 subtitle: Data Scienctist
 ---
 
-<a href="asset/profile.csv" download="rakesh_ravi_cv.csv">download this</a>
+<a href="assets/Profile___Rakesh_Ravi_K_U-17.pdf" download="rakesh_ravi_cv.csv">Click here</a>
