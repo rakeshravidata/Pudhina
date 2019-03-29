@@ -11,7 +11,7 @@ sitemap:
 <img src="{{ '/assets/img/KuduvaUmasankar_RakeshRavi.png' | prepend: site.baseurl }}" width = "25%" height = "25%" class="center" alt="centered image" >
 	</p>
 </center>
-<body style="margin:0;padding:0">
+<body style="margin:20;padding:20">
 <div id="describe-text" style="background-color:rgba(0, 0, 0, 0.0470588); text-align:left; vertical-align: middle; padding:20px 20px 20px 20px;">
 	<p>I am a budding data science professional who is passionate about making business and technology work for each other especially in the ad-tech industry.  From an industry exposure perspective, I have 4 years of experience in Data Analytics and Client Servicing across digital marketing, e-commerce, and insurance. I have substantial experience in complex data analysis, text mining, automation, data visualization and deploying machine learning models on real-world data. Working as a client-facing Data Analyst has helped me immensely in empathizing with business problems. I love talking about data and thrive on communicating the insights derived from data to non-technical stakeholders or clients.</p>
 
