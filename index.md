@@ -34,7 +34,7 @@ A novel labeling methodology using a combination of open source data sets (Black
 
 <span style="font-weight: bold;"> <span style="color:black">2. Comparison of Supervised Learning Methods for Intrusion Detection in Enterprise Networks</span> <span style="float: right; ">ECML 2019 (Abstract Accepted)</span> </span>  <br>
 University of Virginia, Charlottesville<br>
-Built and deployed a framework for implementing supervise learning methods on the University of Virginia Network which delivered a accuracy of 98% and a false positive rate less than 1%. The deployed model is an weighted ensemble of feed forward neural network and XGBoost. (Funded by DARPA)<br>
+Built and deployed a framework for implementing supervise learning methods on the University of Virginia Network which delivered a accuracy of 98% and a false positive rate less than 1%. The deployed model is an weighted ensemble of feed forward neural network and XGBoost. Invited to speak and present findings at <a href="https://sched.co/Lck6}">Tom Tom Applied Machine Learning Conference</a>. The project is funded in part by DARPA<br>
 
 <span style="font-weight: bold;"> <span style="color:black">3. Exploratory Data Analysis of the Unified Host and Network Dataset</span> <span style="float: right; ">SIEDS 2019 (Paper Accepted)</span> </span><br>
 University of Virginia, Charlottesville<br>
@@ -42,14 +42,13 @@ Uncovered hidden relationships between different variables(Source and Destinatio
 
 <font size="6"><span style="font-weight: bold;"> <span style="color:black">Data Science Projects</span> </span><br></font>
 
-<span style="font-weight: bold;"> <span style="color:black">1.Fine-Grained Numeral Understanding in Financial Tweets:</span> <span style="float: right; "> 2019</span> </span><br>
+<span style="font-weight: bold;"> <span style="color:black">1.Fine-Grained Numeral Understanding in Financial Tweets</span> <span style="float: right; "> 2019</span> </span><br>
 Developed a deep learning model in Tensorflow using
 character-based Convolution Neural Network to classify numerals in financial tweets into categories based on
-context which will be used to forecast stock prices based on investor/analyst opinions.
+context which will be used to forecast stock prices based on investor/analyst opinions.)<br>
 
-<span style="font-weight: bold;"> <span style="color:black">2.Hotel Recommendation System - Booking.com::</span> <span style="float: right; "> 2019</span> </span><br>
-Developed a deep learning model in Tensorflow using
-character-based Convolution Neural Network to classify numerals in financial tweets into categories based on
-context which will be used to forecast stock prices based on investor/analyst opinions.
-
+<span style="font-weight: bold;"> <span style="color:black">2.Hotel Recommendation System - Booking.com</span> <span style="float: right; "> 2018</span> </span><br>
+Built a recommendation engine in Python using k-means clustering
+algorithm on data scraped from booking.com. The recommendation engine was powered with user satisfaction
+scores from sentiment analysis performed on user reviews.)<br>
 
