@@ -12,6 +12,7 @@ sitemap:
 	</p>
 </center>
 <body style="margin:1200;padding:1200">
+<font size="6"><span style="font-weight: bold;"> <span style="color:black">Summary</span> </span><br></font>
 <div id="describe-text">
 	<p>I am a budding data science professional who is passionate about finding machine learning applications in business and technology. From an industry exposure perspective, I have 4 years of experience in Data Analytics and managing client relationships across digital marketing, e-commerce, and insurance. I have substantial experience in complex data analysis, text mining, automation, data visualization and deploying machine learning models on real-world data. Working as a client-facing Data Analyst has helped me immensely in empathizing with business problems. I love talking about data and thrive on communicating the insights derived from data to non-technical stakeholders or clients. I have two research papers on application of Data Science in cybersecurity. I am currently working on a DARPA funded cybersecurity initiative at the University of Virginia to build and deploy a deep learning framework to detect malicious attacks.</p>
 
@@ -24,7 +25,8 @@ sitemap:
 	<p><strong> <a href="https://github.com/rakeshravidata"> repository</a> </strong></p>
 </div>
 </body>
-
+<br>
+<br>
 
 
 <font size="6"><span style="font-weight: bold;"> <span style="color:black">Research Experience</span> </span><br></font>
