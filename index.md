@@ -54,3 +54,6 @@ flight logs for the year of 2015. Implemented a framework that used a separate m
 
 <span style="font-weight: bold;"> <span style="color:black">4. Application of Bayesian Ensebmbles in Cybersecurity</span> <span style="float: right; "> 2018</span> </span><br>
 Implemented a Bayesian Regressive Additive Trees on cybersecurity data set( <a href="https://www.stratosphereips.org/datasets-ctu13/">Dataset</a>) using backfitting Markov Chain Monte Carlo algorithm that generates samples from a posterior<br>
+
+<span style="font-weight: bold;"> <span style="color:black">5. Credit Card Fraud Prediction</span> <span style="float: right; "> 2018</span> </span><br>
+Segmented Credit Card Users into different levels of risk based on their probability of defaulting which is based on a deep learning prediction model. The data set used for the project was procured from UC Irvine's Machine Learning Repository. The model was able to make predictions with an accuracy of 87%<br>
