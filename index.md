@@ -31,7 +31,7 @@ sitemap:
 A novel labeling methodology using a combination of open source data sets (Blacklist and Whitelist feeds) and honeypot logs that can be implemented in any enterprise network. Labeling network traffic will help organizations build a robust intrusion detection systems.(Funded by DARPA)
 
 <span style="font-weight: bold;"> <span style="color:black">2. Comparison of Supervised Learning Methods for Intrusion Detection in Enterprise Networks</span> <span style="float: right; ">ECML 2019 (Paper Submitted)</span> </span>  <br>
-Built and deployed a framework for implementing supervise learning methods on the University of Virginia Network which delivered a accuracy of 98% and a false positive rate less than 1%. The deployed model is an weighted ensemble of feed forward neural network and XGBoost. Invited to speak and present findings at <a href="https://sched.co/Lck6}">Tom Tom Applied Machine Learning Conference</a>. The project is funded in part by DARPA<br>
+Built and deployed a framework for implementing supervise learning methods on the University of Virginia Network which delivered a accuracy of 98% and a false positive rate less than 1%. The deployed model is an weighted ensemble of feed forward neural network and XGBoost. Invited to speak and present findings at <a href="https://sched.co/Lck6}">Tom Tom Applied Machine Learning Conference</a>. The project is funded in part by DARPA.<br>
 
 <span style="font-weight: bold;"> <span style="color:black">3. Exploratory Data Analysis of the Unified Host and Network Dataset</span> <span style="float: right; ">SIEDS 2019 (Paper Accepted)</span> </span><br>
 Uncovered hidden relationships between different variables(Source and Destination Packets) in the Los Alomos National Laboratory's Unified Host and Network Dataset using Unsupervised Learning Methods and verified them using Principal Component Analysis. The hidden relationships can be used to separate anomalous connections through association rule mining.
@@ -53,7 +53,7 @@ Built a machine learning model that was able to predict flight delay on FAA
 flight logs for the year of 2015. Implemented a framework that used a separate model for each level of the high-cardinality categorical variable which shaved the execution time by 80%. The model’s area under curve in the ROC curve was 0.65.<br>
 
 <span style="font-weight: bold;"> <span style="color:black">4. Application of Bayesian Ensebmbles in Cybersecurity</span> <span style="float: right; "> 2019</span> </span><br>
-Implemented a Bayesian Regressive Additive Trees on cybersecurity data set( <a href="https://www.stratosphereips.org/datasets-ctu13/">Dataset</a>) using backfitting Markov Chain Monte Carlo algorithm that generates samples from a posterior<br>
+Currently working a Bayesian Regressive Additive Trees on cybersecurity data set( <a href="https://www.stratosphereips.org/datasets-ctu13/">Dataset</a>) using backfitting Markov Chain Monte Carlo algorithm that will generate samples from a posterior.<br>
 
 <span style="font-weight: bold;"> <span style="color:black">5. Credit Card Fraud Prediction</span> <span style="float: right; "> 2019</span> </span><br>
 Segmented Credit Card Users into different levels of risk based on their probability of defaulting which is based on a deep learning prediction model. The data set used for the project was procured from UC Irvine's Machine Learning Repository. The model was able to make predictions with an accuracy of 87%<br>
