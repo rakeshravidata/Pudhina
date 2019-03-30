@@ -27,7 +27,7 @@ sitemap:
 
 #Research Experience
 
-#<span style="color:black">1. An Autonomous Labelling Pipeline for Enterprise Network Traffic </span> <span style="float: right; ">SIEDS 2019 (Paper Accepted)</span>  
+#<span style="color:black">**1. An Autonomous Labelling Pipeline for Enterprise Network Traffic**</span> <span style="float: right; ">SIEDS 2019 (Paper Accepted)</span>  
 **1. An Autonomous Labelling Pipeline for Enterprise Network Traffic**  <span style="float: right; ">SIEDS 2019 (Paper Accepted)</span>  
 University of Virginia, Charlottesville 
 A novel labeling methodology using a combination of open source data sets (Blacklist and Whitelist feeds) and honeypot logs that can be implemented in any enterprise network. Labeling network traffic will help organizations build a robust intrusion detection systems. (Funded by DARPA)
