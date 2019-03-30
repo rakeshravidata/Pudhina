@@ -25,7 +25,6 @@ sitemap:
 </div>
 </body>
 
-<div id="describe-text" style="background-color:rgba(0, 0, 0, 0.0470588); text-align:left; vertical-align: middle; padding:20px 20px 20px 20px;">
 **Research Experience**
 
 **1. An Autonomous Labelling Pipeline for Enterprise Network Traffic**  <span style="float: right; ">SIEDS 2019 (Paper Accepted)</span>  
@@ -40,6 +39,3 @@ Uncovered hidden relationships between different variables(Source and Destinatio
 University of Virginia, Charlottesville 
 Built a 
 
-</div>
-
- 
