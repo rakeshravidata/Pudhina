@@ -28,17 +28,17 @@ sitemap:
 **Research Experience**
 
 
-<span style="font-weight: bold;"> <span style="color:black">1. An Autonomous Labelling Pipeline for Enterprise Network Traffic</span> <span style="float: right; ">SIEDS 2019 (Paper Accepted)</span> </span>
+<span style="font-weight: bold;"> <span style="color:black">1. An Autonomous Labelling Pipeline for Enterprise Network Traffic</span> <span style="float: right; ">SIEDS 2019 (Paper Accepted)</span> </span><br>
 University of Virginia, Charlottesville<br>
 A novel labeling methodology using a combination of open source data sets (Blacklist and Whitelist feeds) and honeypot logs that can be implemented in any enterprise network. Labeling network traffic will help organizations build a robust intrusion detection systems.(Funded by DARPA)
 
-<span style="font-weight: bold;"> <span style="color:black">2. Exploratory Data Analysis of the Unified Host and Network Dataset</span> <span style="float: right; ">SIEDS 2019 (Paper Accepted)</span> </span>
-<p>University of Virginia, Charlottesville</p>
-<p>Uncovered hidden relationships between different variables(Source and Destination Packets) in the Los Alomos National Laboratory's Unified Host and Network Dataset using Unsupervised Learning Methods and verified them using Principal Component Analysis. The hidden relationships can be used to separate anomalous connections through association rule mining.</p>
+<span style="font-weight: bold;"> <span style="color:black">2. Exploratory Data Analysis of the Unified Host and Network Dataset</span> <span style="float: right; ">SIEDS 2019 (Paper Accepted)</span> </span><br>
+University of Virginia, Charlottesville<br>
+Uncovered hidden relationships between different variables(Source and Destination Packets) in the Los Alomos National Laboratory's Unified Host and Network Dataset using Unsupervised Learning Methods and verified them using Principal Component Analysis. The hidden relationships can be used to separate anomalous connections through association rule mining.
 
-<span style="font-weight: bold;"> <span style="color:black">3. Comparison of Supervised Learning Methods for Intrusion Detection in Enterprise Networks</span> <span style="float: right; ">ECML 2019 (Abstract Accepted)</span> </span>  
-<p>University of Virginia, Charlottesville</p>
-<p>Built and compared supervised</p>
+<span style="font-weight: bold;"> <span style="color:black">3. Comparison of Supervised Learning Methods for Intrusion Detection in Enterprise Networks</span> <span style="float: right; ">ECML 2019 (Abstract Accepted)</span> </span>  <br>
+University of Virginia, Charlottesville<br>
+Built and compared supervised
 
 
 
