@@ -52,8 +52,23 @@ scores from sentiment analysis performed on user reviews.<br>
 Built a machine learning model that was able to predict flight delay on FAA
 flight logs for the year of 2015. Implemented a framework that used a separate model for each level of the high-cardinality categorical variable which shaved the execution time by 80%. The model’s area under curve in the ROC curve was 0.65.<br>
 
-<span style="font-weight: bold;"> <span style="color:black">4. Application of Bayesian Ensebmbles in Cybersecurity</span> <span style="float: right; "> 2018</span> </span><br>
+<span style="font-weight: bold;"> <span style="color:black">4. Application of Bayesian Ensebmbles in Cybersecurity</span> <span style="float: right; "> 2019</span> </span><br>
 Implemented a Bayesian Regressive Additive Trees on cybersecurity data set( <a href="https://www.stratosphereips.org/datasets-ctu13/">Dataset</a>) using backfitting Markov Chain Monte Carlo algorithm that generates samples from a posterior<br>
 
-<span style="font-weight: bold;"> <span style="color:black">5. Credit Card Fraud Prediction</span> <span style="float: right; "> 2018</span> </span><br>
+<span style="font-weight: bold;"> <span style="color:black">5. Credit Card Fraud Prediction</span> <span style="float: right; "> 2019</span> </span><br>
+Segmented Credit Card Users into different levels of risk based on their probability of defaulting which is based on a deep learning prediction model. The data set used for the project was procured from UC Irvine's Machine Learning Repository. The model was able to make predictions with an accuracy of 87%<br>
+
+<span style="font-weight: bold;"> <span style="color:black">6. Black Friday Sales Prediction</span> <span style="float: right; "> 2018</span> </span><br>
+Segmented Credit Card Users into different levels of risk based on their probability of defaulting which is based on a deep learning prediction model. The data set used for the project was procured from UC Irvine's Machine Learning Repository. The model was able to make predictions with an accuracy of 87%<br>
+
+<span style="font-weight: bold;"> <span style="color:black">7. Topic Modelling</span> <span style="float: right; "> 2018</span> </span><br>
+Segmented Credit Card Users into different levels of risk based on their probability of defaulting which is based on a deep learning prediction model. The data set used for the project was procured from UC Irvine's Machine Learning Repository. The model was able to make predictions with an accuracy of 87%<br>
+
+<span style="font-weight: bold;"> <span style="color:black">8. Image Classifier/span> <span style="float: right; "> 2018</span> </span><br>
+Segmented Credit Card Users into different levels of risk based on their probability of defaulting which is based on a deep learning prediction model. The data set used for the project was procured from UC Irvine's Machine Learning Repository. The model was able to make predictions with an accuracy of 87%<br>
+
+<span style="font-weight: bold;"> <span style="color:black">9. Conversion Rate Prediction</span> <span style="float: right; "> 2018</span> </span><br>
+Segmented Credit Card Users into different levels of risk based on their probability of defaulting which is based on a deep learning prediction model. The data set used for the project was procured from UC Irvine's Machine Learning Repository. The model was able to make predictions with an accuracy of 87%<br>
+
+<span style="font-weight: bold;"> <span style="color:black">10. Insurance Default Rate Prediction</span> <span style="float: right; "> 2018</span> </span><br>
 Segmented Credit Card Users into different levels of risk based on their probability of defaulting which is based on a deep learning prediction model. The data set used for the project was procured from UC Irvine's Machine Learning Repository. The model was able to make predictions with an accuracy of 87%<br>
