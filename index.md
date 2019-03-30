@@ -30,7 +30,7 @@ sitemap:
 <span style="font-weight: bold;"> <span style="color:black">1. An Autonomous Labelling Pipeline for Enterprise Network Traffic</span> <span style="float: right; ">SIEDS 2019 (Paper Accepted)</span> </span><br>
 A novel labeling methodology using a combination of open source data sets (Blacklist and Whitelist feeds) and honeypot logs that can be implemented in any enterprise network. Labeling network traffic will help organizations build a robust intrusion detection systems.(Funded by DARPA)
 
-<span style="font-weight: bold;"> <span style="color:black">2. Comparison of Supervised Learning Methods for Intrusion Detection in Enterprise Networks</span> <span style="float: right; ">ECML 2019 (Abstract Accepted)</span> </span>  <br>
+<span style="font-weight: bold;"> <span style="color:black">2. Comparison of Supervised Learning Methods for Intrusion Detection in Enterprise Networks</span> <span style="float: right; ">ECML 2019 (Paper Submitted)</span> </span>  <br>
 Built and deployed a framework for implementing supervise learning methods on the University of Virginia Network which delivered a accuracy of 98% and a false positive rate less than 1%. The deployed model is an weighted ensemble of feed forward neural network and XGBoost. Invited to speak and present findings at <a href="https://sched.co/Lck6}">Tom Tom Applied Machine Learning Conference</a>. The project is funded in part by DARPA<br>
 
 <span style="font-weight: bold;"> <span style="color:black">3. Exploratory Data Analysis of the Unified Host and Network Dataset</span> <span style="float: right; ">SIEDS 2019 (Paper Accepted)</span> </span><br>
@@ -59,16 +59,16 @@ Implemented a Bayesian Regressive Additive Trees on cybersecurity data set( <a h
 Segmented Credit Card Users into different levels of risk based on their probability of defaulting which is based on a deep learning prediction model. The data set used for the project was procured from UC Irvine's Machine Learning Repository. The model was able to make predictions with an accuracy of 87%<br>
 
 <span style="font-weight: bold;"> <span style="color:black">6. Black Friday Sales Prediction</span> <span style="float: right; "> 2018</span> </span><br>
-Segmented Credit Card Users into different levels of risk based on their probability of defaulting which is based on a deep learning prediction model. The data set used for the project was procured from UC Irvine's Machine Learning Repository. The model was able to make predictions with an accuracy of 87%<br>
+Segmented Credit Card Users into different levels of risk based on their probability of defaulting which is based on a deep learning prediction model. The data set used for the project was procured from UC Irvine's Machine Learning Repository. The model was able to make predictions with an accuracy of 82%<br>
 
-<span style="font-weight: bold;"> <span style="color:black">7. Topic Modelling</span> <span style="float: right; "> 2018</span> </span><br>
-Segmented Credit Card Users into different levels of risk based on their probability of defaulting which is based on a deep learning prediction model. The data set used for the project was procured from UC Irvine's Machine Learning Repository. The model was able to make predictions with an accuracy of 87%<br>
+<span style="font-weight: bold;"> <span style="color:black">7. Topic Modelling for Event Identification in Twitter Data</span> <span style="float: right; "> 2018</span> </span><br>
+Used Latent Dirichlet Allocation to perform topic modelling and event identification on twitter data for a major baseball league which was used to idenitfy the most trending events from each game <br>
 
-<span style="font-weight: bold;"> <span style="color:black">8. Image Classifier/span> <span style="float: right; "> 2018</span> </span><br>
-Segmented Credit Card Users into different levels of risk based on their probability of defaulting which is based on a deep learning prediction model. The data set used for the project was procured from UC Irvine's Machine Learning Repository. The model was able to make predictions with an accuracy of 87%<br>
+<span style="font-weight: bold;"> <span style="color:black">8. Image Classifier to Distinguish Between Fans and Athletes on Twitter Posts</span> <span style="float: right; "> 2019</span> </span><br>
+Currently working on an Image classifier that uses Resnet 50 CNN to segregate images in Tweets into fans and athletes. The project is intended to help the baseball league identify interests among the fans from a visual standpoint. <br>
 
-<span style="font-weight: bold;"> <span style="color:black">9. Conversion Rate Prediction</span> <span style="float: right; "> 2018</span> </span><br>
-Segmented Credit Card Users into different levels of risk based on their probability of defaulting which is based on a deep learning prediction model. The data set used for the project was procured from UC Irvine's Machine Learning Repository. The model was able to make predictions with an accuracy of 87%<br>
+<span style="font-weight: bold;"> <span style="color:black">9. Conversion Rate Prediction - Advertising Tech</span> <span style="float: right; "> 2017</span> </span><br>
+Deployed a Machine Learning Model using Random Forest, while working with MiQ Digital, to predict the users that had the highest likelhood of click on an ad or visiting a website. The model improved the efficiency of digital marketing campaigns at MiQ.<br>
 
-<span style="font-weight: bold;"> <span style="color:black">10. Insurance Default Rate Prediction</span> <span style="float: right; "> 2018</span> </span><br>
-Segmented Credit Card Users into different levels of risk based on their probability of defaulting which is based on a deep learning prediction model. The data set used for the project was procured from UC Irvine's Machine Learning Repository. The model was able to make predictions with an accuracy of 87%<br>
+<span style="font-weight: bold;"> <span style="color:black">10. Insurance Claim Prediction </span> <span style="float: right; "> 2017</span> </span><br>
+Built a model using Logistic Regression to predict the likelihood of a customer filing an insurance claim with an accuracy of 83%. This helped the insurance firm, Canada Financial restructure and manage their resources more efficiently<br>
