@@ -54,4 +54,4 @@ Built a machine learning model that was able to predict flight delay on FAA
 flight logs for the year of 2015. Implemented a framework that used a separate model for each level of the high-cardinality categorical variable which shaved the execution time by 80%. The model’s area under curve in the ROC curve was 0.65.<br>
 
 <span style="font-weight: bold;"> <span style="color:black">4. Application of Bayesian Ensebmbles in Cybersecurity</span> <span style="float: right; "> 2018</span> </span><br>
-Implemented a <br>
+Implemented a Bayesian Regressive Additive Trees on cybersecurity data set using backfitting Markov Chain Monte Carlo algorithm that generates samples from a posterior<br>
