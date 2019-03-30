@@ -32,13 +32,13 @@ sitemap:
 <p>University of Virginia, Charlottesville</p>
 <p>A novel labeling methodology using a combination of open source data sets (Blacklist and Whitelist feeds) and honeypot logs that can be implemented in any enterprise network. Labeling network traffic will help organizations build a robust intrusion detection systems. (Funded by DARPA)</p>
 
-**2. Exploratory Data Analysis of the Unified Host and Network Dataset**  <span style="float: right; ">SIEDS 2019 (Paper Accepted)</span>   
-University of Virginia, Charlottesville 
-Uncovered hidden relationships between different variables(Source and Destination Packets) in the Los Alomos National Laboratory's Unified Host and Network Dataset using Unsupervised Learning Methods and verified them using Principal Component Analysis. The hidden relationships can be used to separate anomalous connections through association rule mining.
+<span style="font-weight: bold;"> <span style="color:black">2. Exploratory Data Analysis of the Unified Host and Network Dataset</span> <span style="float: right; ">SIEDS 2019 (Paper Accepted)</span> </span>
+<p>University of Virginia, Charlottesville</p>
+<p>Uncovered hidden relationships between different variables(Source and Destination Packets) in the Los Alomos National Laboratory's Unified Host and Network Dataset using Unsupervised Learning Methods and verified them using Principal Component Analysis. The hidden relationships can be used to separate anomalous connections through association rule mining.</p>
 
-**3. Comparison of Supervised Learning Methods for Intrusion Detection in Enterprise Networks**  <span style="float: right; ">ECML 2019 (Abstract Accepted)</span>   
-University of Virginia, Charlottesville 
-Built and compared supervised
+<span style="font-weight: bold;"> <span style="color:black">3. Comparison of Supervised Learning Methods for Intrusion Detection in Enterprise Networks</span> <span style="float: right; ">ECML 2019 (Abstract Accepted)</span> </span>  
+<p>University of Virginia, Charlottesville</p>
+<p>Built and compared supervised</p>
 
 
 
