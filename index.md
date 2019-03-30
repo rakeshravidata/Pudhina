@@ -50,5 +50,10 @@ context which will be used to forecast stock prices based on investor/analyst op
 <span style="font-weight: bold;"> <span style="color:black">2.Hotel Recommendation System - Booking.com</span> <span style="float: right; "> 2018</span> </span><br>
 Built a recommendation engine in Python using k-means clustering
 algorithm on data scraped from booking.com. The recommendation engine was powered with user satisfaction
-scores from sentiment analysis performed on user reviews.)<br>
+scores from sentiment analysis performed on user reviews.<br>
+
+<span style="font-weight: bold;"> <span style="color:black">3. Flight Delay Prediction - FAA Data</span> <span style="float: right; "> 2018</span> </span><br>
+Built a machine learning model that was able to predict flight delay on FAA
+flight logs for the year of 2015. Implemented a framework that used a separate model for each level of the high-cardinality categorical variable which shaved the execution time by 80%. The model’s area under curve in the ROC curve was 0.65.<br>
+
 
