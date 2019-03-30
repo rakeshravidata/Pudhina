@@ -13,7 +13,8 @@ sitemap:
 </center>
 <body style="margin:1200;padding:1200">
 <font size="6"><span style="font-weight: bold;"> <span style="color:black">Summary</span> </span><br></font>
-<div aligh = "justify"><div id="describe-text" align="left">
+<div style="text-align:justify"><div id="describe-text" style="text-align:left">
+	
 	<p>I am a budding data science professional who is passionate about finding machine learning applications in business and technology. From an industry exposure perspective, I have 4 years of experience in Data Analytics and managing client relationships across digital marketing, e-commerce, and insurance. I have substantial experience in complex data analysis, text mining, automation, data visualization and deploying machine learning models on real-world data. Working as a client-facing Data Analyst has helped me immensely in empathizing with business problems. I love talking about data and thrive on communicating the insights derived from data to non-technical stakeholders or clients. I have published two research papers on applications of Data Science in cybersecurity. I am currently working on a DARPA funded cybersecurity initiative at the school of engineering, University of Virginia to build and deploy a deep learning framework to detect malicious attacks.</p>
 
 <p>Throughout my life, I have always enjoyed engaging in sports and physical education. I have played Junior professional and college tennis in India. At the age of 12, I started touring the country alone to compete in tennis tournaments and learned how to manage my time effectively between practice, matches, and school. I also had the opportunity to captain my regional team for five years and this experience held me in good stead when I led a team of data analysts. When I am not playing tennis or working on Data Science projects, I teach English to underpriveleged kids in India and teach meditation to young adults.  </p>
