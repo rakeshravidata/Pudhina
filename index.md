@@ -27,7 +27,6 @@ sitemap:
 <br>
 
 <font size="6"><span style="font-weight: bold;"> <span style="color:black">Machine Learning Research Experience</span> </span><br></font>
-
 <span style="font-weight: bold;"> <span style="color:black">1. An Autonomous Labelling Pipeline for Enterprise Network Traffic</span> <span style="float: right; ">SIEDS 2019 (Paper Accepted)</span> </span><br>
 A novel labeling methodology using a combination of open source data sets (Blacklist and Whitelist feeds) and honeypot logs that can be implemented in any enterprise network. Labeling network traffic will help organizations build a robust intrusion detection systems.(Funded by DARPA)
 
@@ -39,12 +38,12 @@ Uncovered hidden relationships between different variables(Source and Destinatio
 
 <font size="6"><span style="font-weight: bold;"> <span style="color:black">Data Science Projects</span> </span><br></font>
 
-<span style="font-weight: bold;"> <span style="color:black">1.Fine-Grained Numeral Understanding in Financial Tweets</span> <span style="float: right; "> 2019</span> </span><br>
+<span style="font-weight: bold;"> <span style="color:black">1. Fine-Grained Numeral Understanding in Financial Tweets</span> <span style="float: right; "> 2019</span> </span><br>
 Developed a deep learning model in Tensorflow using
 character-based Convolution Neural Network to classify numerals in financial tweets into categories based on
 context which will be used to forecast stock prices based on investor/analyst opinions.)<br>
 
-<span style="font-weight: bold;"> <span style="color:black">2.Hotel Recommendation System - Booking.com</span> <span style="float: right; "> 2018</span> </span><br>
+<span style="font-weight: bold;"> <span style="color:black">2. Hotel Recommendation System - Booking.com</span> <span style="float: right; "> 2018</span> </span><br>
 Built a recommendation engine in Python using k-means clustering
 algorithm on data scraped from booking.com. The recommendation engine was powered with user satisfaction
 scores from sentiment analysis performed on user reviews.<br>
@@ -54,4 +53,4 @@ Built a machine learning model that was able to predict flight delay on FAA
 flight logs for the year of 2015. Implemented a framework that used a separate model for each level of the high-cardinality categorical variable which shaved the execution time by 80%. The model’s area under curve in the ROC curve was 0.65.<br>
 
 <span style="font-weight: bold;"> <span style="color:black">4. Application of Bayesian Ensebmbles in Cybersecurity</span> <span style="float: right; "> 2018</span> </span><br>
-Implemented a Bayesian Regressive Additive Trees on cybersecurity data set using backfitting Markov Chain Monte Carlo algorithm that generates samples from a posterior<br>
+Implemented a Bayesian Regressive Additive Trees on cybersecurity data set( <a href="https://www.stratosphereips.org/datasets-ctu13/">Dataset</a>) using backfitting Markov Chain Monte Carlo algorithm that generates samples from a posterior<br>
