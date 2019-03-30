@@ -41,7 +41,7 @@ Uncovered hidden relationships between different variables(Source and Destinatio
 
 <span style="font-weight: bold;"> <span style="color:black">3. Comparison of Supervised Learning Methods for Intrusion Detection in Enterprise Networks</span> <span style="float: right; ">ECML 2019 (Abstract Accepted)</span> </span>  <br>
 University of Virginia, Charlottesville<br>
-Built and compared supervised
+Built and deployed a framework for implementing supervise learning methods on the University of Virginia Network which delivered a accuracy of 98% and a false positive rate less than 1%.
 
 
 
