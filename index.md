@@ -26,7 +26,7 @@ sitemap:
 </body>
 
 <div id="describe-text" style="background-color:rgba(0, 0, 0, 0.0470588); text-align:left; vertical-align: middle; padding:20px 20px 20px 20px;">
-### Research Experience
+**Research Experience**
 
 **1. An Autonomous Labelling Pipeline for Enterprise Network Traffic**  <span style="float: right; ">SIEDS 2019 (Paper Accepted)</span>  
 University of Virginia, Charlottesville 
@@ -40,8 +40,6 @@ Uncovered hidden relationships between different variables(Source and Destinatio
 University of Virginia, Charlottesville 
 Built a 
 
-
+</div>
 
  
-SRM University,Chennai, India <span style="float: right; ">2010 - 2014</span>  
-**Bachelor of Technology in Mechanical Engineering**  
